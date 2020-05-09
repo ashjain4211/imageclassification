@@ -1,2 +1,2 @@
 # imageclassification
-i
+image classification
